@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kamlesh kaparvena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamlesh kaparvena" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kamlesh-kaparvena-124219227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamlesh-kaparvena-124219227/" height="30" width="40" /></a>
 <a href="https://dribbble.com/https://dribbble.com/kamlesh07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/kamlesh07" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucyj8m-fbbyr7nhmrhvh3iug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucyj8m-fbbyr7nhmrhvh3iug" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@coding_717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@coding_717" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vid_it_0076" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vid_it_0076" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/kamlesh_7?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kamlesh_7?hr_r=1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kamlesh_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kamlesh_7" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/kamlesh_kaparvena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kamlesh_kaparvena" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/kamleshkaparvena3570/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kamleshkaparvena3570/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@kamleshkaparvena3570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@kamleshkaparvena3570" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kamleshkaparvena3570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamleshkaparvena3570" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@kamleshkaparvena3570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kamleshkaparvena3570" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kamleshkap7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kamleshkap7" height="30" width="40" /></a>
 </p>
 
@@ -43,5 +43,6 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=broletscodeit&show_icons=true&locale=en&layout=compact" alt="broletscodeit" /></p>
 <br><br><br><br><br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=broletscodeit&show_icons=true&locale=en" alt="broletscodeit" /></p>
-<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=broletscodeit&" alt="broletscodeit" /></p>
+
