@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![logo](https://github.com/BroLetsCodeIt/BroLetsCodeIt/blob/main/68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67.png)
-<h1 align="left">Hi 👋, I'm Kamlesh Kaparvena</h1>
+<h1 align="left" style="color:white">Hi 👋, I'm Kamlesh Kaparvena</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=broletscodeit&label=Profile%20views&color=0e75b6&style=flat" alt="broletscodeit" /> </p>
 
