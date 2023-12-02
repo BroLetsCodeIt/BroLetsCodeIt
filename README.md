@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=broletscodeit&label=Profile%20views&color=0e75b6&style=flat" alt="broletscodeit" /> </p>
 
+🌱 I’m currently learning Blockchain , Web3 and Metaverse.
+
 📝 I regularly write blog  [here](https://learnwithcodinggeek7.blogspot.com/)
 
 📫 How to reach me **kamleshkaparvena3570@gmail.com**
@@ -48,6 +50,7 @@ Here are some ideas to get you started:
 ## **BlockChain Tools**
 <p align="left">
 <a href="https://hardhat.org/" target='_blank'><img src="https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhardhat-logo.5c5f687b.svg&w=256&q=75" alt="" width="150" height="40"/></a>
+<a href="https://trufflesuite.com/" target="_blank" paddingLeft="2px"> <img  src="https://trufflesuite.com/assets/logo.png" width="40" height="40"/></a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=broletscodeit&show_icons=true&locale=en&layout=compact" alt="broletscodeit" width='40%'/></p>
 
