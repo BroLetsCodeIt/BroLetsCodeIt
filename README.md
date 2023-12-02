@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ## **BlockChain Tools**
 <p align="left">
-<a href="https://hardhat.org/" target='_blank'><img src="https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhardhat-logo.5c5f687b.svg&w=256&q=75" alt="" width="150" height="40"/></a>
+<a href="https://hardhat.org/" target='_blank'><img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="" width="50" height="40"/></a>
 <a href="https://trufflesuite.com/" target="_blank" paddingLeft="2px"> <img  src="https://trufflesuite.com/assets/logo.png" width="40" height="40"/></a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=broletscodeit&show_icons=true&locale=en&layout=compact" alt="broletscodeit" width='40%'/></p>
