@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://hardhat.org/" target='_blank'><img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="" width="50" height="40"/></a>
 <a href="https://trufflesuite.com/" target="_blank" paddingLeft="2px"> <img  src="https://trufflesuite.com/assets/logo.png" width="40" height="40"/></a>
+<a href="https://web3js.readthedocs.io/en/v1.10.0/" target="_blank" ><img src="https://repository-images.githubusercontent.com/24655114/c71c5800-6a8c-11e9-9117-8ec357c9f69e" width="40" height="40"/></a>
+<a href="https://ipfs.tech/" target="_blank"><img src="https://seeklogo.com/images/I/ipfs-logo-986C769021-seeklogo.com.png" width="40" height="40"/></a>  
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=broletscodeit&show_icons=true&locale=en&layout=compact" alt="broletscodeit" width='40%'/></p>
 
