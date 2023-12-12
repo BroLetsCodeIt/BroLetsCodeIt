@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Blockchain , Web3 and Metaverse.
 
-📝 I regularly write blog  [here](https://learnwithcodinggeek7.blogspot.com/)
+📝 I write blog  [here](https://learnwithcodinggeek7.blogspot.com/)
 
 📫 How to reach me **kamleshkaparvena3570@gmail.com**
 
