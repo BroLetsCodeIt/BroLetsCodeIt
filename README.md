@@ -18,9 +18,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![logo](https://github.com/BroLetsCodeIt/BroLetsCodeIt/blob/main/68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67.png)
+
+![](https://github-profile-trophy.vercel.app/?username=BroLetsCodeIt&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=5)
+
 <h1 align="left" style="color:white">Hi 👋, I'm Kamlesh Kaparvena</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=broletscodeit&label=Profile%20views&color=0e75b6&style=flat" alt="broletscodeit" /> </p>
+[![](https://visitcount.itsvg.in/api?id=BroLetsCodeIt&icon=6&color=1)](https://visitcount.itsvg.in)
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=broletscodeit&label=Profile%20views&color=0e75b6&style=flat" alt="broletscodeit" /> </p>-->
 
 🌱 I’m currently learning Blockchain , Web3 and Metaverse.
 
@@ -54,8 +58,19 @@ Here are some ideas to get you started:
 <a href="https://web3js.readthedocs.io/en/v1.10.0/" target="_blank" ><img src="https://repository-images.githubusercontent.com/24655114/c71c5800-6a8c-11e9-9117-8ec357c9f69e" width="40" height="40"/></a>
 <a href="https://ipfs.tech/" target="_blank"><img src="https://seeklogo.com/images/I/ipfs-logo-986C769021-seeklogo.com.png" width="40" height="40"/></a>  
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=broletscodeit&show_icons=true&locale=en&layout=compact" alt="broletscodeit" width='40%'/></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=broletscodeit&show_icons=true&locale=en" alt="broletscodeit" height='50%' width='53%'/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=broletscodeit&" alt="broletscodeit" width='95%'/></p>
+### 🔝 **Top Contributed Repo**
+![](https://github-contributor-stats.vercel.app/api?username=BroLetsCodeIt&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 📊 **GitHub Stats:**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=broletscodeit&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="broletscodeit" width='40%'/></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=broletscodeit&show_icons=true&locale=en&theme=highcontrast" alt="broletscodeit" height='50%' width='53%'/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=broletscodeit&theme=highcontrast" alt="broletscodeit" width='95%'/></p>
+
+
+<!--
+![](https://github-readme-stats.vercel.app/api?username=BroLetsCodeIt&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=BroLetsCodeIt&theme=highcontrast&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BroLetsCodeIt&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
