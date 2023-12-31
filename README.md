@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me **kamleshkaparvena3570@gmail.com**
 
-🎥 YouTube Channel [🎥](https://www.youtube.com/channel/UCYj8M-fbbyR7nHMRHVH3iUg)
+
 
 
 ## **Coding and Dev Profile**
