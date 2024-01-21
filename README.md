@@ -1,6 +1,3 @@
----
-marp : true
----
 <!--### Hi there 👋-->
 
 <!--
@@ -17,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![logo](https://github.com/BroLetsCodeIt/BroLetsCodeIt/blob/main/68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67.png)
+<!-- ![logo](https://github.com/BroLetsCodeIt/BroLetsCodeIt/blob/main/68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67.png) -->
 
-![](https://github-profile-trophy.vercel.app/?username=BroLetsCodeIt&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=5)
 
 <h1 align="left" style="color:white">Hi 👋, I'm Kamlesh Kaparvena</h1>
+
+![](https://github-profile-trophy.vercel.app/?username=BroLetsCodeIt&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=5)
 
 [![](https://visitcount.itsvg.in/api?id=BroLetsCodeIt&icon=6&color=1)](https://visitcount.itsvg.in)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=broletscodeit&label=Profile%20views&color=0e75b6&style=flat" alt="broletscodeit" /> </p>-->
