@@ -61,10 +61,10 @@ Here are some ideas to get you started:
 
 ### 📊 **GitHub Stats:**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=broletscodeit&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="broletscodeit" width='40%'/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=broletscodeit&show_icons=true&locale=en&layout=compact&theme=dark" alt="broletscodeit" width='40%'/></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=broletscodeit&show_icons=true&locale=en&theme=highcontrast" alt="broletscodeit" height='50%' width='53%'/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=broletscodeit&theme=highcontrast" alt="broletscodeit" width='95%'/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=broletscodeit&show_icons=true&locale=en&theme=dark" alt="broletscodeit" height='50%' width='53%'/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=broletscodeit&theme=dark" alt="broletscodeit" width='95%'/></p>
 
 
 <!--
