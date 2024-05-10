@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h1 align="left" style="color:white">Hi 👋, I'm Kamlesh Kaparvena</h1>
 
-![](https://github-profile-trophy.vercel.app/?username=BroLetsCodeIt&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=5)
+![](https://github-profile-trophy.vercel.app/?username=BroLetsCodeIt&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=0&column=9)
 
 [![](https://visitcount.itsvg.in/api?id=BroLetsCodeIt&icon=6&color=1)](https://visitcount.itsvg.in)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=broletscodeit&label=Profile%20views&color=0e75b6&style=flat" alt="broletscodeit" /> </p>-->
