@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=broletscodeit&show_icons=true&locale=en&theme=dark" alt="broletscodeit" height='50%' width='53%'/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=broletscodeit&theme=dark" alt="broletscodeit" width='95%'/></p>
 
-![](https://github-profile-trophy.vercel.app/?username=BroLetsCodeIt&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=0&column=9)
+![](https://github-profile-trophy.vercel.app/?username=BroLetsCodeIt&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=0&column=10)
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=BroLetsCodeIt&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BroLetsCodeIt&theme=highcontrast&hide_border=false)
