@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 <h1 align="left" style="color:white">Hi 👋, I'm Kamlesh Kaparvena</h1>
 
 
-
-[![](https://visitcount.itsvg.in/api?id=BroLetsCodeIt&icon=6&color=1)](https://visitcount.itsvg.in)
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=broletscodeit&label=Profile%20views&color=0e75b6&style=flat" alt="broletscodeit" /> </p>-->
-
 🌱 I’m currently working as Software Engineer at Vermount Information Processing. 
 
 📝 I write blog  [here](https://learnwithcodinggeek7.blogspot.com/)
