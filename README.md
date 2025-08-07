@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=BroLetsCodeIt&icon=6&color=1)](https://visitcount.itsvg.in)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=broletscodeit&label=Profile%20views&color=0e75b6&style=flat" alt="broletscodeit" /> </p>-->
 
-🌱 I’m currently learning Blockchain , Web3 and Metaverse.
+🌱 I’m currently working as Software Engineer at Vermount Information Processing. 
 
 📝 I write blog  [here](https://learnwithcodinggeek7.blogspot.com/)
 
@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 ## **Coding and Dev Profile**
 <center>
 
-| Linkedin | CodeChef | CodeForces | Leetcode | GFG | Dribble |
+| Linkedin | CodeChef | CodeForces | Leetcode | GFG | Youtube |
 |:---------:|:--------:|:--------:|:----------:|:----:|:-----:|
-| <a href="https://www.linkedin.com/in/kamlesh-kaparvena-124219227/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/123/123718.png" alt="https://www.linkedin.com/in/kamlesh-kaparvena-124219227/" height="40" width="40" borderRadius="2"/></a> |  <a href="https://www.codechef.com/users/vid_it_0076" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vid_it_0076" height="30" width="40" /></a> | <a href="https://codeforces.com/profile/kamlesh_kaparvena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kamlesh_kaparvena" height="30" width="40" /></a> | <a href="https://www.leetcode.com/kamleshkaparvena3570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamleshkaparvena3570" height="30" width="40" /></a> | <a href="https://auth.geeksforgeeks.org/user/kamleshkap7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kamleshkap7" height="30" width="40" /></a> | <a href="https://dribbble.com/kamlesh07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/kamlesh07" height="30" width="40" /></a>
+| <a href="https://www.linkedin.com/in/kamlesh-kaparvena-124219227/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/123/123718.png" alt="https://www.linkedin.com/in/kamlesh-kaparvena-124219227/" height="40" width="40" borderRadius="2"/></a> |  <a href="https://www.codechef.com/users/vid_it_0076" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vid_it_0076" height="30" width="40" /></a> | <a href="https://codeforces.com/profile/kamlesh_kaparvena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kamlesh_kaparvena" height="30" width="40" /></a> | <a href="https://www.leetcode.com/kamleshkaparvena3570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamleshkaparvena3570" height="30" width="40" /></a> | <a href="https://auth.geeksforgeeks.org/user/kamleshkap7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kamleshkap7" height="30" width="40" /></a> | <a href="https://www.youtube.com/@Coding-Edu" target="blank"><img align="center" src="https://vectordose.com/wp-content/uploads/2022/04/youtube-svg-logo-vectordose.com_.png" alt="https://www.youtube.com/@Coding-Edu" height="30" width="40" /></a>
   
 </center>
 <!--
