@@ -22,12 +22,11 @@ Here are some ideas to get you started:
 
 🌱 I’m currently working as Software Engineer at Vermount Information Processing. 
 
-📝 I write blog  [here](https://learnwithcodinggeek7.blogspot.com/)
-
 📫 How to reach me **kamleshkaparvena3570@gmail.com**
 
 💻 Visit my [Portfolio](https://kamleshkaparvena.vercel.app/)
 
+📝 I write blog  [here](https://learnwithcodinggeek7.blogspot.com/)
 
 ## **Coding and Dev Profile**
 <center>
