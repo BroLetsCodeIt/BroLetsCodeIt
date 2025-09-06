@@ -59,17 +59,20 @@ Here are some ideas to get you started:
 <a href="https://ipfs.tech/" target="_blank"><img src="https://seeklogo.com/images/I/ipfs-logo-986C769021-seeklogo.com.png" width="40" height="40"/></a>  
 </p> -->
 
+<!--
 ### 🔝 **Top Contributed Repo**
 ![](https://github-contributor-stats.vercel.app/api?username=BroLetsCodeIt&limit=5&theme=dark&combine_all_yearly_contributions=true)
+-->
 
-### 📊 **GitHub Stats:**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=broletscodeit&show_icons=true&locale=en&layout=compact&theme=dark" alt="broletscodeit" width='40%'/></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=broletscodeit&show_icons=true&locale=en&theme=dark" alt="broletscodeit" height='50%' width='53%'/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=broletscodeit&theme=dark" alt="broletscodeit" width='95%'/></p>
 
+<!--
 ![](https://github-profile-trophy.vercel.app/?username=BroLetsCodeIt&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=0&column=10)
+-->
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=BroLetsCodeIt&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BroLetsCodeIt&theme=highcontrast&hide_border=false)
